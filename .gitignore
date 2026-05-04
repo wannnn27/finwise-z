@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI Agent Metadata
+AGENTS.md
+CLAUDE.md
+.gemini/
+.anthropic/
+
+# Prisma
+/src/generated/prisma
+node_modules/.prisma

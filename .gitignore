@@ -45,7 +45,3 @@ AGENTS.md
 CLAUDE.md
 .gemini/
 .anthropic/
-
-# Prisma
-/src/generated/prisma
-node_modules/.prisma
